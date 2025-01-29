@@ -143,7 +143,7 @@ This project provides an end-to-end solution for predicting car prices using mac
 If you have any questions or need further assistance, don't hesitate to ask. 😉
 
 
-## 🧑‍💻 Team Members
+## 👨🏻‍💻 Team Members
 
 *   Fares Alhomazah: [LinkedIn Profile](https://www.linkedin.com/in/fares-abdulghani-alhomazah-6b1802288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 *   Ahmed Aljaifi: [LinkedIn Profile](https://www.linkedin.com/in/ahmed-al-jaifi-ab213617a)
