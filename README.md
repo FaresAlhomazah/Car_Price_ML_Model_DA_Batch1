@@ -1,3 +1,5 @@
+![Car Price Prediction Project Logo](file-L7iarjRLxNakKbwDeDJCB2 (1).webp)
+
 # 🚗 Car Price Prediction Project with Machine Learning 🤖
 
 ## ✨ Overview
